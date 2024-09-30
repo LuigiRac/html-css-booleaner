@@ -1,0 +1,6 @@
+header {
+    background-color: cornflowerblue;
+    background-image: url('../img/pattern.png');
+    height: 100px;
+    background-size: 30%;
+}
