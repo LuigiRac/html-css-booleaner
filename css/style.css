@@ -1,10 +1,4 @@
-/* Font Google
-#4DA1FF; header
-#878888; grey
-#1AAAE6; blue
-#B2E6F2; light blue
-#FFFF00; highlight
-*/
+/* Font Google*/
 
 body {
         font-family: "Roboto", sans-serif;
@@ -42,13 +36,18 @@ body {
     background-color: #FFFF00;
   }
 
-  .bg-hblue {
-    background-color: #FFFF00;
+  .bg-blue {
+    background-color: #1AAAE6;
   }
   
-  .bg-lightblue {
+  .odd {
     background-color: #B2E6F2;
   }
+
+/* dimension */
+.w-50 {
+    width: 50%;
+}
 
 
   /* header */
@@ -60,4 +59,11 @@ header {
 
 #logo img{
     width: 200px;
+}
+
+
+/* main */
+
+h1 {
+    font-size: 3em;
 }
